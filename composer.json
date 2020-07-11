@@ -1,0 +1,11 @@
+{
+    "name": "vendor/ssl-lib-phlow",
+    "description": "Description of project @ssl-lib/phlow.",
+    "authors": [
+        {
+            "name": "Sillas S. Leal",
+            "email": "sillas.s.leal@gmail.com"
+        }
+    ],
+    "require": {}
+}
